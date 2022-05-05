@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aec3835e.css",
+    "main.js": "/static/js/main.098ecaa6.js",
+    "static/media/20200728_195808.jpg": "/static/media/20200728_195808.edc40fff04a712d59617.jpg",
+    "static/media/staybnb.png": "/static/media/staybnb.809afc3c6bc997a9a325.png",
+    "static/media/crypto-tracker.png": "/static/media/crypto-tracker.d8f6f497691c223ee9ef.png",
+    "static/media/CBO.png": "/static/media/CBO.e23e7857889fc1a76ffb.png",
+    "static/media/keychainWebsite.png": "/static/media/keychainWebsite.1ddbde6148bc03a62c3a.png",
+    "static/media/nft.png": "/static/media/nft.2ca9345dcdd7bf5b2d28.png",
+    "static/media/sample-adobe.png": "/static/media/sample-adobe.258e0e2359f3da4723cd.png",
+    "static/media/keychainMobile.png": "/static/media/keychainMobile.8f52825c1e422f01a996.png",
+    "static/media/WebDeveloper-Resume.pdf": "/static/media/WebDeveloper-Resume.3c408f9dd27a6313c08e.pdf",
+    "static/media/purpleBackground.jpeg": "/static/media/purpleBackground.1d715fefdff62bef6c1c.jpeg",
+    "index.html": "/index.html",
+    "main.aec3835e.css.map": "/static/css/main.aec3835e.css.map",
+    "main.098ecaa6.js.map": "/static/js/main.098ecaa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aec3835e.css",
+    "static/js/main.098ecaa6.js"
+  ]
+}
